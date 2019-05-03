@@ -1,4 +1,4 @@
-from maven
+from maven:3.6.1-jdk-8
 
 USER root
 RUN apt-get update -qq \
